@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-lite-chat-app/static/css/main.ebae0d5d.chunk.css",
+    "main.js": "/react-lite-chat-app/static/js/main.70277776.chunk.js",
+    "main.js.map": "/react-lite-chat-app/static/js/main.70277776.chunk.js.map",
+    "runtime-main.js": "/react-lite-chat-app/static/js/runtime-main.da2c7785.js",
+    "runtime-main.js.map": "/react-lite-chat-app/static/js/runtime-main.da2c7785.js.map",
+    "static/css/2.44e6b886.chunk.css": "/react-lite-chat-app/static/css/2.44e6b886.chunk.css",
+    "static/js/2.912a318d.chunk.js": "/react-lite-chat-app/static/js/2.912a318d.chunk.js",
+    "static/js/2.912a318d.chunk.js.map": "/react-lite-chat-app/static/js/2.912a318d.chunk.js.map",
+    "index.html": "/react-lite-chat-app/index.html",
+    "static/css/2.44e6b886.chunk.css.map": "/react-lite-chat-app/static/css/2.44e6b886.chunk.css.map",
+    "static/css/main.ebae0d5d.chunk.css.map": "/react-lite-chat-app/static/css/main.ebae0d5d.chunk.css.map",
+    "static/js/2.912a318d.chunk.js.LICENSE.txt": "/react-lite-chat-app/static/js/2.912a318d.chunk.js.LICENSE.txt",
+    "static/media/Chat.css": "/react-lite-chat-app/static/media/chat-bg.e65de74a.jpg",
+    "static/media/emoji.97585af2.svg": "/react-lite-chat-app/static/media/emoji.97585af2.svg",
+    "static/media/file.c116d3d6.svg": "/react-lite-chat-app/static/media/file.c116d3d6.svg",
+    "static/media/send.9e4379d8.svg": "/react-lite-chat-app/static/media/send.9e4379d8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da2c7785.js",
+    "static/css/2.44e6b886.chunk.css",
+    "static/js/2.912a318d.chunk.js",
+    "static/css/main.ebae0d5d.chunk.css",
+    "static/js/main.70277776.chunk.js"
+  ]
+}
